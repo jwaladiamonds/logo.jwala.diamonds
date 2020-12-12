@@ -379,6 +379,18 @@ button, html [type="button"], [type="reset"], [type="submit"] {
   appearance: none;
 }
 
+.btn-jwala {
+  color: #fff;
+  background-color: #005069;
+  border-color: #005069;
+}
+
+.btn-jwala:hover {
+    color: #fff;
+    background-color: #006180;
+    border-color: #006180;
+}
+
 a.btn-floating>i.fab {
   width: 1.5rem;
   text-align: center;
