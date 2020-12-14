@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 227 151">
+  <defs>
+    <linearGradient id="wildPeacock" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#001011" />
+      <stop offset="100%" stop-color="#047C7C" />
+    </linearGradient>
+  </defs>
+  <title>JDJ Logo</title>
+  <path
+    d="M169.84,0H58.11L0,43.31,113.84,150.55l113-107.24ZM79.13,46.43h7.93L72.13,69.81ZM63.35,78.31,52.7,46.75H74ZM76.49,41.37,67.91,31.2h9.24l9.91,10.17Zm-6.07,0H56.29l7.06-6.21ZM49.55,31.2H58.8L50.21,41.41H39.65Zm-9.9,15.23h7.92l7,23.38Zm69.73,87.66L57,84.79l6.32-6.32,37.1,35V17.85H73.67V8.92h35.71ZM118.31,8.92H167l46.58,35.4L118.3,134.09Z"
+    style="fill:url(#wildPeacock)" />
+</svg>
