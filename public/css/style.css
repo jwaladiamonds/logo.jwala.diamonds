@@ -16,11 +16,15 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: #005069;
   text-decoration: none;
   cursor: pointer;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #006180;
 }
 
 h1, h2, h3, h4, h5, h6 {
